@@ -1,0 +1,11 @@
+State,Growth_Rate_%,Best_R²,Trend_Direction
+Uttar Pradesh,100.0,0.39519958001309397,Decreasing
+Bihar,450.0,0.3556416129450899,Decreasing
+Maharashtra,0.0,0.2745208507704672,Decreasing
+Madhya Pradesh,100.0,0.2684726801222994,Decreasing
+Gujarat,0.0,0.22139045926898648,Decreasing
+Uttarakhand,-50.0,0.20220895604438993,Decreasing
+Karnataka,-50.0,0.18851019740274233,Decreasing
+Assam,50.0,0.16312716050177667,Decreasing
+Punjab,0.0,0.15546892808999468,Decreasing
+Goa,50.0,0.15132067818786055,Increasing
